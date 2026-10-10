@@ -35,7 +35,7 @@ venv.bak/
 .coverage
 htmlcov/
 
-# Data & Output Files
+# Data & Output Files (ignore large files by default)
 *.bam
 *.bai
 *.sam
@@ -50,7 +50,12 @@ htmlcov/
 *.tar.gz
 *.zip
 output/
-demo_output/
+
+# Whitelist demo data & pre-computed benchmark results
+!demo/demo_data/*.sam
+!demo/demo_output/
+!demo/demo_output/*
+
 
 # IDE
 .vscode/

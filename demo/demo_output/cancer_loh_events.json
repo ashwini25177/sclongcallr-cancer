@@ -1,0 +1,18 @@
+[
+  {
+    "block_id": "phase_block_0",
+    "chrom": "chr17",
+    "start": 1000,
+    "end": 1100,
+    "cluster": "Malignant_Subclone_A",
+    "num_snps": 2,
+    "h1_counts": 18,
+    "h2_counts": 1,
+    "total_depth": 19,
+    "ai_ratio": 0.8947,
+    "dominant_haplotype": "H1",
+    "repressed_haplotype": "H2",
+    "p_value": 7.62939453125e-05,
+    "status": "LOH_CONFIRMED"
+  }
+]

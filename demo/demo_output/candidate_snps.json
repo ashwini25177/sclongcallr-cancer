@@ -1,0 +1,38 @@
+[
+  {
+    "chrom": "chr17",
+    "pos": 1000,
+    "ref": "C",
+    "alt": "T",
+    "depth": 10,
+    "alt_count": 5,
+    "alt_fraction": 0.5,
+    "zygosity": "0/1",
+    "genotype": [
+      "C",
+      "T"
+    ],
+    "confidence": 0.95,
+    "is_rna_editing": false,
+    "dl_used": false,
+    "cluster": "Infiltrating_CD8_T"
+  },
+  {
+    "chrom": "chr17",
+    "pos": 1100,
+    "ref": "G",
+    "alt": "A",
+    "depth": 10,
+    "alt_count": 5,
+    "alt_fraction": 0.5,
+    "zygosity": "0/1",
+    "genotype": [
+      "G",
+      "A"
+    ],
+    "confidence": 0.95,
+    "is_rna_editing": false,
+    "dl_used": false,
+    "cluster": "Infiltrating_CD8_T"
+  }
+]
