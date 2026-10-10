@@ -1,0 +1,6 @@
+cell_barcode,cluster
+CELL_TUMOR_001,Malignant_Subclone_A
+CELL_TUMOR_002,Malignant_Subclone_A
+CELL_TUMOR_003,Malignant_Subclone_B
+CELL_IMMUNE_001,Infiltrating_CD8_T
+CELL_IMMUNE_002,Infiltrating_CD8_T

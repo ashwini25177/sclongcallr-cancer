@@ -1,0 +1,58 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Testing & Coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Data & Output Files
+*.bam
+*.bai
+*.sam
+*.vcf
+*.vcf.gz
+*.vcf.gz.tbi
+*.h5ad
+*.fa
+*.fa.fai
+*.gtf
+*.gtf.gz
+*.tar.gz
+*.zip
+output/
+demo_output/
+
+# IDE
+.vscode/
+.idea/
+*.swp
